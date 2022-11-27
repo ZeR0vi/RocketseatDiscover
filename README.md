@@ -6,7 +6,10 @@
 
 ## Tecnologias Estudadas
 ## Certificates
+![rocketseat_discover2](https://user-images.githubusercontent.com/99215787/204153519-56ce59b4-3e52-4178-9a89-92e744b3d7c0.png)
+
 ## Modules
+## Trilhas
 
 ## Idea
 [VitorHonna](https://github.com/vitorhonna/rocketseat-discover)
