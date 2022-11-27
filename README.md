@@ -6,7 +6,7 @@
 
 ## Tecnologias Estudadas
 ## Certificates
-## 
+## Modules
 
 ## Idea
 [VitorHonna](https://github.com/vitorhonna/rocketseat-discover)
