@@ -6,6 +6,8 @@
 ## Modules
 ## Trails
 ## Challenges
+[RocketCoffee](https://github.com/ZeR0vi/rocketcoffee)
+[RocketNews]
 ## Idea
 [VitorHonna](https://github.com/vitorhonna/rocketseat-discover)
 
